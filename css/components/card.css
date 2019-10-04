@@ -1,0 +1,10 @@
+.card{
+	background color:#CE965B;
+	padding: 40px;
+	box-shadow: 10px 10px 10px 10px grey;
+	margin: 30px auto;
+	border-radius: 10px 10px 10px 10px;
+	text-align: center; 
+}
+
+

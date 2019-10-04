@@ -1,0 +1,59 @@
+
+#title{
+	font-family: 'Mansalva', cursive;
+}
+
+
+#accueil{
+	background-image: url(../../Image/bureau.jpg);
+	background-size: cover;
+    background-position: center;
+}
+
+
+#bouton-me-recruter{
+ 	color: white;
+ 	font-family: 'Quicksand', sans-serif;
+ 	background-color: #FECA18;
+ 	border-radius: 40px;
+ 	padding: 8px 20px;
+ }
+
+
+#académique{
+    background-position: unset;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(118, 118, 128, 0.36), rgba(234, 234, 233, 0.07)), url(../../Image/diplome.PNG);
+
+ }
+
+
+#qualites{
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(118, 118, 128, 0.36), rgba(234, 234, 233, 0.07)), url(../../Image/girl-power.jpg);
+    text-align: right;
+    padding:35px;
+ }
+
+
+#logiciels{
+	background-position: left;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(118, 118, 128, 0.36), rgba(234, 234, 233, 0.07)), url(../../Image/ordi3.jpg);
+    text-align: right;
+    padding: 60px;
+}
+
+
+#contact{
+	background-image: linear-gradient(rgba(118, 118, 128, 0.36), rgba(234, 234, 233, 0.07)), url(../../Image/telephone.PNG);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+
+ 
+
